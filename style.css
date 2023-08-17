@@ -1,9 +1,21 @@
-body {
-    background-color: red;
 
-}
 h1 {
     text-align: center;
+    color: black;
+   border: 5px solid white;
     
-
+}
+body {
+    background-color:  red;
+}
+img {
+    border: 10px solid blue;
+    margin-left: 350px;
+}
+ul{
+    border: 2px solid green;
+    margin-left: 350px;
+}
+ol{
+    margin-top: 350px;
 }
